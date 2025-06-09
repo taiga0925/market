@@ -7,3 +7,4 @@
 6.  cp .env.example .env
 7.  .env ファイル修正
 8.  php artisan key:generate
+9.  php artisan storage:link
