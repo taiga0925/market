@@ -8,3 +8,4 @@
 7.  .env ファイル修正
 8.  php artisan key:generate
 9.  php artisan storage:link
+10.  composer require stripe/stripe-php
