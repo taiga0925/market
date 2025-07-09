@@ -9,5 +9,5 @@
 8.  php artisan key:generate
 9.  php artisan storage:link
 10.  composer require stripe/stripe-php
-11.  composer require guzzlehttp/guzzle
-12.  composer require wildbit/swiftmailer-postmark
+11.  php artisan make:mail OrderShipped
+
