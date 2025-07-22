@@ -8,6 +8,5 @@
 7.  .env ファイル修正
 8.  php artisan key:generate
 9.  php artisan storage:link
-10.  composer require stripe/stripe-php
-11.  php artisan make:mail OrderShipped
+10.  php artisan make:controller Auth/EmailVerificationNotificationController
 
